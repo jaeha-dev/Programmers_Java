@@ -1,5 +1,7 @@
 ### Programmers 알고리즘 문제 - Java 풀이
 ***
+    환경: Windows 10 64 bit, IntelliJ IDEA
+    
     Test.java: 실행용 자바 파일 (main 메소드 포함)  
     Solution.java: 제출용 자바 파일  
     Result.txt: 테스트 케이스 수행 결과  
