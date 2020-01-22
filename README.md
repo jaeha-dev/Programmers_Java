@@ -1,6 +1,6 @@
 ### Programmers 알고리즘 문제 - Java 풀이
 ***
-    Test.java: 실행용 자바 파일  
+    Test.java: 실행용 자바 파일 (main 메소드 포함)  
     Solution.java: 제출용 자바 파일  
     Result.txt: 테스트 케이스 수행 결과  
 
