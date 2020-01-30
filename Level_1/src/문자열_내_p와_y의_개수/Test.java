@@ -1,5 +1,9 @@
 package 문자열_내_p와_y의_개수;
 
+/**
+ * @title  : 문자열 내 p와 y의 개수
+ * @author : jaeha-dev (Git)
+ */
 public class Test {
     public static void main(String[] args) {
         System.out.println(solution("pPoooyY"));
